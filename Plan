@@ -1,0 +1,284 @@
+Stock-Index-Prediction-Sentient comparison 
+Web based service to generate Alpha at medium frequency 
+Copyright: Partha Sen (Algoix Technologies LLP)
+
+Table of Contents
+
+I. Intro
+
+II. Influence
+
+III. Overall Design
+
+IV. Technical Details
+
+V. Timeline of Tasks
+
+VI. Detailed Design - Core
+
+VII. Detailed Design - Database
+
+VIII. Detailed Design - RESTful Web Service
+
+IX. Detailed Design - Web and Phone Apps
+
+X. Future Plans
+
+XI. Installing and Running the Tool Yourself
+
+XII. Contributing
+
+XIII. License
+
+I. Intro:
+
+Over the past few months I have become increasingly interested in the worlds of investing, machine learning, and software engineering. I decided it would be best to merge all of these interests through a project to enhance my knowledge, and at the end have a cool/useful project to show off.
+
+This project is currently in progress. I will attempt to document my process as I go about creating this program.
+
+II. Influence:
+
+A research paper titled "A Genetic Algorithm Optimized Decision Tree SVM based Stock Market Trend Prediction System" is the basis for this project. It can be found here: http://stocktrendresearch.googlecode.com/svn-history/r7/trunk/Paper/SVM_ANN_UpDownNoTrend.pdf
+
+III. Overall Design:
+
+A. The core project consists of 4 parts:
+
+Daily inputs: Daily Open, Daily High, Daily Low, Daily Closing, Trading Volumes
+Technical Indicators (features): there are 28 of these (and discussed in the paper) and are obtained through analysis on the inputs.
+Prediction System: The prediction system is made up of a Decision Tree, SVM, and Genetic Algorithm and is fed the technical indicators as inputs.
+Trading Rule: Based on the predicted trend from the prediction system.
+B. There will be a database to store the data obtained from both the daily inputs, the technical indicators, and the prediction system.
+
+C. This will be hosted as a web service and will provide a web API, so other applications can interface with it.
+
+D. Web and phone apps that get data from the web API will be created as examples.
+
+IV. Technical Details:
+
+IDE:
+
+Eclipse
+Testing:
+
+TBD
+Language:
+
+Backend: Java (most likely), potentially: Python or Scala
+Frontend: JavaScript, HTML, CSS
+Framework:
+
+Spring, Jersey (will change if a different language is chosen)
+Database:
+
+MongoDB
+Dependency Management:
+
+Maven
+Hosting:
+
+DigitalOcean
+Website:
+
+leahferrell.info/services/ or services.leahferrell.info
+VCS:
+
+git -- GitHub
+Repository:
+
+https://github.com/leah3393/Stock-Index-Predictor
+V. Timeline of Tasks:
+
+#	Task	Expected Completion Date	Completed (Y/N)
+1.	Design and write the code to compute techinical indicators (features) used in the analysis.	TBD	N
+2.	Design and implement the machine learning data analysis tool used in the program.	TBD	N
+3.	Create an easily expandable database that will receive a daily feed of 5 inputs from a finance API.	TBD	N
+4.	Build a REST web service with an API to host the program.	TBD	N
+5.	Make the system extendable so that it includes many indices.	TBD	N
+6.	Create a web display for the information and an interface for results.	TBD	N
+7.	Create phone applications (iOS, Android) to display information.	TBD	N
+VI. Detailed Design - Core:
+
+A. Daily Inputs
+
+These will be updated daily through a finance API (most likely Bloomberg or Yahoo Finance)
+The inputs are: Daily Open, Daily High, Daily Low, Daily Closing, Trading Volumes
+The inputs are queried through their date.
+Each stock index has its own table of daily input values.
+B. Technical Indicators
+
+Positive Volume Index (PVI)
+Negative Volume Index (NVI)
+On-Balance Volume (OBV)
+Typical Volumes
+Price-Volume trend
+Accumulation/Distribution Oscillator
+Chaikin's Oscillator
+Chaikin's Volitility
+Acceleration
+Highest High
+Lowest Low
+Relative Strength Index
+MACD Nine Period Moving Average
+MACD Line
+Momentum
+Stochastic Oscillator %k
+Stochastic Oscillator %d
+Typical Price
+Median Price
+Weighted Close
+William's %R
+Price Rate of Change
+William's Accumulation/Distribution
+Bollinger Upper
+Bollinger Lower
+Bollinger Middle
+25 Day Moving Average
+65 Day Moving Average
+Helper Indicators: (used to find the technical indicators)
+
+Exponential Moving Average
+Simple Moving Average
+Accumulation Distribution Line
+True Range High
+True Range Low
+Today's Accumulation Distribution
+Relative Strength
+Unnamed Oscillator
+C. Prediction System
+
+Decision Tree
+
+Support Vector Machine
+
+Genetic Algorithm
+
+D. Trading Rule
+
+The trading rule will be one of three rules:
+
+Up Trend: Buy
+
+Down Trend: Sell
+
+No Trend: Stay
+
+VII. Detailed Design - Database:
+
+The database will be in MongoDB.
+
+Potential Schema
+
+"stock record":
+{
+    "_id": "<ObjectId>",
+
+    "stock_index": "<string>",
+
+    "date": "<date/string>",
+
+    "record_id": "<string>",
+
+    "daily_input": {
+        "daily_open": "<double>",
+        "daily_high": "<double>",
+        "daily_low": "<double>",
+        "daily_closing": "<double>",
+        "trading_volume": "<double>"
+    },
+
+    "yesterdays_record": "<ObjectId>",
+
+    "helper_data": {
+        "exponential_moving_average": "<double>",
+        "simple_moving_average": "<double>",
+        "accumulation_distribution_line": "<double>",
+        "true_range_high": "<double>",
+        "true_range_low": "<double>",
+        "todays_accumulation_distribution": "<double>",
+        "relative_strength": "<double>",
+        "unnamed_oscillator": "<double>"
+    },
+
+    "technical_indicators": {
+        "pvi": "<double>",
+        "nvi": "<double>",
+        "obv": "<double>",
+        "typical_volume": "<double>",
+        "price_volume_trend": "<double>",
+        "a_d_oscillator": "<double>",
+        "chaikins_oscillator": "<double>",
+        "chaikins_volatility": "<double>",
+        "acceleration": "<double>",
+        "highest_high": "<double>",
+        "lowest_low": "<double>",
+        "relative_strength_index": "<double>",
+        "macd_nine_period_moving_average": "<double>",
+        "macd_line": "<double>",
+        "momentum": "<double>",
+        "s_o_k": "<double>",
+        "s_o_d": "<double>",
+        "typical_price": "<double>",
+        "median_price": "<double>",
+        "weighted_close": "<double>",
+        "williams_r": "<double>",
+        "bollinger_upper": "<double>",
+        "bollinger_lower": "<double>",
+        "bollinger_middle": "<double>",
+        "moving_average_25": "<double>",
+        "moving_average_65": "<double>"
+    }
+}
+VIII. Detailed Design - RESTful Web Service:
+
+Architecture
+
+Tools
+
+Diagram
+
+API Services
+
+Create
+
+Coming soon
+
+Read
+
+Coming soon
+
+Update
+
+Coming soon
+
+Delete
+
+Coming soon
+
+IX. Detailed Design - Web and Phone Apps:
+
+General
+
+Coming soon
+
+Web
+
+Coming soon
+
+Mobile
+
+Coming soon
+
+X. Future Plans:
+
+Coming soon.
+
+XI. Installing and Running the Tool Yourself:
+
+Coming soon.
+
+XII. Contributing:
+
+This is currently a solo project, so I don't have any plans for adding in contributions. Check back later.
+
+XIII. License:
