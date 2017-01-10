@@ -2,6 +2,24 @@ Stock-Index-Prediction-Sentient comparison
 Web based service to generate Alpha at medium frequency 
 Copyright: Partha Sen (Algoix Technologies LLP)
 
+https://github.com/jakemmarsh/neural-network-stock-predictor
+https://github.com/FraPochetti/StocksProject
+https://github.com/scorpionhiccup/StockPricePrediction
+https://github.com/wzchen/stock_market_prediction
+https://github.com/Avhirup/Stock-Market-Prediction-Challenge
+https://github.com/giladbi?tab=repositories
+https://medium.com/@Yettie/how-i-predicted-the-stock-market-at-numerai-ml-tournament-6f74e1c8809e#.79nxzfbz0
+https://numer.ai/about
+https://nicholastsmith.wordpress.com/2016/11/04/stock-market-prediction-in-python-part-2/
+https://www.toptal.com/machine-learning/s-p-500-automated-trading
+
+http://hallvardnydal.github.io/new_posts/2015-07-21-deep_q/
+https://www.feedcrunch.io/@dataradar/
+http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
+https://ml.berkeley.edu/blog/2016/10/14/demo-day/
+
+
+
 Table of Contents
 
 I. Intro
@@ -35,6 +53,29 @@ I. Intro:
 Over the past few months I have become increasingly interested in the worlds of investing, machine learning, and software engineering. I decided it would be best to merge all of these interests through a project to enhance my knowledge, and at the end have a cool/useful project to show off.
 
 This project is currently in progress. I will attempt to document my process as I go about creating this program.
+
+Project that listens on a news source and makes a prediction on the sentiment. Based on the sentiment, allows one to make a decision.
+Once decision is made, the project allows one to go out to a historical ticker source to see if the action yielded any profits.
+
+Project consists of three packages :
+
+1. Twitter api and related parsing
+Goes out to twitter and listens on interesting news from  Reuters via the Twitter streaming API
+Also filters on the information that we are interested in and the time of the day. 
+The news is captured and written to  output.
+
+
+2. Sentiment 
+
+The sentiment analysis takes the input from package 1 and looks up the sentiment using a sentiment analysis API
+Based on the score back from the API, we will make a decision to execute or not
+
+3. Stock analyser
+
+After a gap of 5 mins ( Assuming this is the time it takes for information to flow to the general market), we will query a finance API just after executing the query and 5 mins after. 
+If we decided to previously buy the stock ( based on a positive sentiment) and there is an increase in the stock price, we are in profit and vice-versa.
+
+
 
 II. Influence:
 
