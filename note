@@ -1,0 +1,82 @@
+~/AlTech
+    |-- run.py
+    |-- config.py
+    |__ /env             # Virtual Environment
+    |__ /PrSense             # Our Application Module
+         |-- __init__.py
+         |-- /module_one
+             |-- __init__.py
+             |-- controllers.py
+             |-- models.py                
+         |__ /templates
+             |__ /module_one
+                 |-- hello.html
+         |__ /static
+         |__ ..
+         |__ .
+    |__ ..
+    |__ .
+
+
+
+		### logic of application separate from the layout or presentation, web designer needed.
+
+## Links
+https://github.com/parthasen/flask/blob/master/links
+
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+https://github.com/miguelgrinberg/flasky
+https://www.youtube.com/watch?v=px_vg9Far1Y
+
+
+http://www.capsunlock.net/2011/05/coding-with-flask-and-sqlalchemy.html
+https://github.com/DeaconDesperado/Flask-SQLAlchemy-Example/blob/master/testapp.py
+http://flask-sqlalchemy.pocoo.org/2.1/quickstart/#a-minimal-application
+
+https://code.tutsplus.com/tutorials/intro-to-flask-signing-in-and-out--net-29982
+https://github.com/NETTUTS/intro-to-flask
+https://github.com/lpolepeddi/intro-to-flask/tree/17_profile_page
+
+#to find list of environments
+conda info --envs`
+
+#pip install --upgrade pip
+
+#environment
+pip-9.0.1
+Python 3 
+
+##microblog
+1. location of folder:
+/home/octo/pyflask/microblog/app
+2. source activate ENV
+3. These extensions are loaded by entering the following commands
+
+$ flask/bin/pip install flask
+$ flask/bin/pip install flask-login
+$ flask/bin/pip install flask-openid
+$ flask/bin/pip install flask-mail
+$ flask/bin/pip install flask-sqlalchemy
+$ flask/bin/pip install sqlalchemy-migrate
+$ flask/bin/pip install flask-whooshalchemy
+$ flask/bin/pip install flask-wtf
+$ flask/bin/pip install flask-babel
+$ flask/bin/pip install guess_language
+$ flask/bin/pip install flipflop
+$ flask/bin/pip install coverage
+
+
+4. python '/home/octo/pyflask/microblog/run.py' 
+
+5. app/templates/ for HTML/JAVASCRIPT/CSS web designer's devlopment ( HIRE)
+
+6. we use "app/templates/index.html " template from our view function (file app/views.py)
+
+7. Form
+
+8. Database: SQLAlchemy-migrate,SQlite
+https://github.com/openstack/sqlalchemy-migrate
+http://ondras.zarovi.cz/sql/demo/
+
+9. another test python '/home/octo/pyflask/psdotnet/' 
+
