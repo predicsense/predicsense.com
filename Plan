@@ -1,4 +1,6 @@
-Stock-Index:Prediction-Sentient mining for better efficient market 
+Stock-Index:Prediction-Sentient mining for better performace and error reduction. 
+Web based service to generate Alpha from medium frequency ( below 15 minutes) data.
+Copyright: Partha Sen (Algoix Technologies LLP)
 
 1. Data input from private servers and crowd sourcing. 
 2. Machine Learning using data and output
@@ -21,9 +23,6 @@ To run this start up [1]outside investment is required but not much important to
 
 After acquisition of knowledge and building set this start up ( Algoix Technologies LLP) in India,Bangalore can be able to use machine learning and AI in stock market retail trading. 
 
-
-Web based service to generate Alpha at medium frequency 
-Copyright: Partha Sen (Algoix Technologies LLP)
 
 https://github.com/jakemmarsh/neural-network-stock-predictor
 https://github.com/FraPochetti/StocksProject
