@@ -1,0 +1,28 @@
+1.The name of the website will be 'WWW.P***.COM'
+
+2. The look of the website will be very simple and easy to understand with a black gradient background (ending with faded black).
+
+#Our main focus is not in the design of the website but in the performance of the website.
+
+3. Our website will have a heading with four options in the top right of the screen, the four options are 
+
+	a) H**
+	b) T**
+	c) A**
+	d) Login/Signout ( picture only)
+
+The name of the website 'WWW.P***.COM' and logo will be in the very top left of the screen. 
+
+The color of the options will be pure white text and the background will be jet black.
+
+4. Now just below the heading the main content will be displayed where options like tabs we may have to add. the back ground of the same will be little faded from jet black
+
+5. Now the bottom of the screen which we can have upto a scale or two width margin where the contact details and our address will be added, a little bit of about us is also required.
+
+6. Breaking the middle screen again where the tabs may have to be added :-
+ 
+a) It will have around 6-10 number of pages including the main functioning page
+
+HTML, JAVASCRIPT, CSS are required for making templates.
+
+Flask app will be used for web app development. Flask WTF. Connecting templates with flask (flask-login, flask-openID, flask-mail, flask-SQLALCHEMY) and database structure design are included.

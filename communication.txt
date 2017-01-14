@@ -1,0 +1,30 @@
+Making templates for website PREDICSENSE using HTML/CSS/JS. The look of the website will be very simple and easy to understand with a black gradient background (ending with faded black). Login,Botton,Input fields, form,price...etc is required in this templates. But no logo and content are required.
+
+
+
+Ok let me tell you ,, we want somebody to build the templates using HTML, I will provide you the sketches and the add ons to be added. this whole website will be of around 6 pages. A flask app is in developing process and we need to connect the same flask app with this website but you do not have to take care of the same. You should build the templates in such a manner that we will be able to connect the app later on. we just need you to handle the front. Back end is handled by our experts
+
+
+
+Template designing using HTML CSS Flask WTF. Connecting templates with flask (flask-login, flask-openID, flask-mail, flask-SQLALCHEMY) and database structure design.
+
+
+website templates using HTML/CSS/Javascript and connect with Flask app. App development is work in progress at our side.
+
+Building website using HTML/CSS/Javascript front with Flask app. Only HTML/CSS/Javascript work and connection with app. 
+
+
+I only need HTML/CSS/JS work as I am building Flask APP. If you have idea to connect front end with APP then enough for me. Do you have experience of that?
+
+
+Did you connect that template with any python APP?
+
+
+So basically templates and routine parts of APP in flask you need to develop. I'll annex my part of APP with you during process.
+
+
+I need someone to build simple original templates.
+You need to build basic part of APP also like connecting database, login.. etc.
+One part of APP is very specific to financial and statistical processing that I'm building and I'll connect with your template.
+So basically templates and routine parts of APP in flask you need to develop. I'll annex my part of APP with you during process.
+

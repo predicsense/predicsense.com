@@ -1,0 +1,80 @@
+1.The name of the website will be 'WWW.PREDICSENSE.COM'
+
+2. The presentation of the website will be very simple and easy to understand with a black background ending with faded black.
+
+Our main focus is not in the design of the website but in the performance of the website.
+
+3. Our website will have a heading with four options in the top right of the screen, the four options are 
+
+	a) Home
+	b) Trading
+	c) Automation
+	d) Login/Signout
+
+The name of the website 'WWW.PREDICSENSE.COM' will be in the very top left of the screen. 
+
+The color of the options will be pure white and the background will be jet black.
+
+4. Now just below the heading the main content will be displayed where options like tabs we may have to add. the back ground of the same will be little faded from jet black
+
+5. Now the bottom of the screen which we can have upto a scale or two width margin where the contact details and our address will be added, a little bit of about us is also required.
+
+6. Using of HTML, JAVA SCRIPT, CSS will be required to make templates. Flask app will be used for web development.
+
+Template designing using HTML CSS Flask WTF. Connecting templates with flask (flask-login, flask-openID, flask-mail, flask-SQLALCHEMY) and database structure design.
+
+7. Breaking the middle screen again where the tabs may have to be added :-
+ 
+a) It will have 5 to 6 number of pages including the main functioning page
+	
+b) Home will have a image in the left with two options in the right.
+	
+c) The two options are :- Stock and IT Service.
+	
+d) Clicking on 'Stock' option a new page will open
+	
+e) The new page will include all the operational requirements along with the free demo option which will start within 5 mins from the time user logs in.
+
+f) After it completes the demo the page will intimate about the session and will 
+display the option for enrolling with various options, Monthly, Yearly, Quarterly.  
+
+g) When the user will click on the 'IT service' option then a form will pop up which will have some questions and after that an automated e-mail will be sent to us form the website and the requester will be contacted as soon as possible.
+	
+				 Trading
+
+This part of the page will have two options as drop down, again if this user is a new user then the demo will start as per the process and so on. Two options are demat account and manual trading. 
+
+Manual trading will include physical trading or normal regular trading. NO robot can be used during manual trading.
+
+Demat account will help the user to open an regular demat account to keep track on his or her account. No rpbot can be used for the same.
+				
+				Automation
+
+A single drop down will be added under this option which will direct the user to the processing page. The option will be bot trading. On clicking same the user will be redirected to the automation page where the user will experience the robotic trading. 
+
+This trading will help the user to save time and trade more resulting to increase in profit margin. 
+
+The robot is with the latest news and artificial intellegency which will givew the accurate and appropiate result to make decision. Accuracy will be high more than the humans resulting to high numbers of share trading and increase in profit margin.
+
+This robot will excavate each and every share which will be a benefit for the user. Robot will be capable of fiinding those shares which the user was not aware of. More awareness with accuracy leads to more trading resulting increase in profit margin.
+
+This robot will not have any access in user's demat balance account, this robot will never ever ask for the same permission. In short all the monetary transactions will be done by the user not by the robot. 
+
+				Processing page
+
+This page is a page where the user will experience the USP performed by the 
+experts. This experience will be given free for 24 hrs to the users on their first 
+log in. Once they complete the demo, user will be asked for enrollment, once 
+enrolled the user starts their experience.
+
+
+Very important to remember that, the registered users will be directly redirected 
+to the processing page. Remember there should not be any interuption or unwanted 
+interference inbetween. The user should receive an exquisite experience.
+
+
+
+This page will have 3 layers. First on the top the 30 days events will be 
+displayed. Then the current stock market graph, the user profit graph will also be 
+displayed. At last current news will be highlighted.
+
