@@ -1,9 +1,21 @@
 #installing heroku
 sudo add-apt-repository "deb https://cli-assets.heroku.com/branches/stable/apt ./"
+curl -L https://cli-assets.heroku.com/apt/release.key | sudo apt-key add -
+sudo apt-get update
+sudo apt-get install heroku
 
- curl -L https://cli-assets.heroku.com/apt/release.key | sudo apt-key add -
+#Deploy using Heroku Git
+$heroku login
+  // All HTML and related files are inside /home/octo/web-project
+$ mkdir web-project/
+  (PyAlgo) octo@octo:~$ 
 
- sudo apt-get update
+#Create a new Git repository
+$ cd web-project/
+$ git init
+$ heroku git:remote -a landing-page-html
 
- sudo apt-get install heroku
- 
+#Deploy your application
+$ git add .
+$ git commit -am "first commit"
+$ git push heroku master
