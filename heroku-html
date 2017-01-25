@@ -16,6 +16,6 @@ $ git init
 $ heroku git:remote -a landing-page-html
 
 #Deploy your application
-$ git add .
-$ git commit -am "first commit"
+$ git add all
+$ git commit -am "LP"
 $ git push heroku master
