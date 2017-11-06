@@ -61,4 +61,4 @@ https://psychsignal.com/
 https://stocksneural.net/about
 
 ##### What other industries/market segments can your proposed solution/technology/innovation be applied to?
-Application of sentiment analysis is not limited but models are not similar. In future, expansion to other Asian markets and Industries like Capital Goods, Automobile can be explored. 
+Application of sentiment analysis is not limited to stock market but models etc. are not similar for application to other sectors/industries/assets/markets. In future, expansion to other Asian markets and Industries like Capital Goods, Automobile can be explored. 
