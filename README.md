@@ -69,6 +69,6 @@ Application of sentiment analysis is not limited to stock market but models etc.
 ##### Describe your traction till date.(Number of paying users/customers, weekly active users on the website,number of institutional partners/suppliers/distributors etc.)
 This is still in development phase and expected to complete a portion by January 2018. 
 ##### In your opinion, why are you and your team best suited to solve the problem?
-1.  3 members are handling technicals like front, modeling and back-end.
-2. 1 Co- founder is able to sell the product
-3. 1 team members 
+1. 3 members are handling technicals like front, modeling and back-end.
+2. 1 Co- founder will handle operation and sales
+3. 1 team member will handle service and sales
