@@ -48,6 +48,8 @@ Twitter based sentiment analysis, web scrapping based sentiment analysis, deep l
 
 ##### How is your solution different from these alternatives?(Describe your value proposition.)
 
+Few websites are already in USA market. But These services are not available in India. My solution is new or may be few start ups are working on this but not known to me is not competition, as existence of few services are helpful for awareness and helpful for easier inclusion of investors. The machine learning model and application in this idea will always be different from one another and this will be benefit to users. Attractiveness and easier application will be key and different from future entrants. Being early mover we have more mined data for competitiveness. 
+
 https://stocktwits.com/
 
 https://www.estimize.com/ 
@@ -56,6 +58,7 @@ https://www.wealthy.in/about-us/
 
 https://psychsignal.com/ 
 
-http://www.heckyl.com/ 
-
 https://stocksneural.net/about
+
+##### What other industries/market segments can your proposed solution/technology/innovation be applied to?
+Application of sentiment analysis is not limited but models are not similar. In future, expansion to other Asian markets and Industries like Capital Goods, Automobile can be explored. 
