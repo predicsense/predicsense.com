@@ -25,3 +25,11 @@ Machine learning models using micro/macro/published/unpublished data from crowed
 
 ##### What is the innovation in your proposed solution?
 Equity research, valuation, rating and news are easily available along with micro/macro data to any system. These inputs along with opinion/tagged data from crowd will be added to multi layered black box to get output. This output will be input to participants/users for decision making. So this propagation will be back and forth to users by application of  technologies related web, iOS and android application, API, and BlockChain. 
+
+##### Must to browse
+https://stocktwits.com/
+https://www.estimize.com/
+https://www.wealthy.in/about-us/
+https://psychsignal.com/
+http://www.heckyl.com/
+https://stocksneural.net/about
