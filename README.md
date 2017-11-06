@@ -23,3 +23,5 @@ Market is huge but segmented and scattered. Informed Investors or thriving for i
 ##### What is your proposed solution?
 Machine learning models using micro/macro/published/unpublished data from crowed, large pool of active investors will increase predictability,accuracy, alpha and will minimized risk indirectly. So decentralization of information/crowd sourcing of stock related wisdom, published and unpublished information/opinion. Real time/unsupervised structured tagging of investors comment/opinion and information are key to solve this problem.
 
+##### What is the innovation in your proposed solution?
+Equity research, valuation, rating and news are easily available along with micro/macro data to any system. These inputs along with opinion/tagged data from crowd will be added to multi layered black box to get output. This output will be input to participants/users for decision making. So this propagation will be back and forth to users by application of  technologies related web, iOS and android application, API, and BlockChain. 
