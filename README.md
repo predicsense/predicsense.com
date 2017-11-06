@@ -13,5 +13,13 @@ I tried to solve the problem in my work related to automatic trading and equity 
 Decentralization/crowd sourcing of stock related published and unpublished information/opinion. Real time/unsupervised structured tagging of investors comment/opinion and information. Application of this to reduce risk of investment and in building investment strategies.    
 
 ##### Who are your primary customers?
-All analysts, retail investors and fund houses are customers. 
+All analysts, retail investors,traders and fund houses in equity segment are customers. 
+
+
+##### Describe your market opportunity
+Alpha generation using micro and macro numbers with qualitative data are common. Use of wisdom of crowd is less in use here but few start ups in USA are doing well and beating wall street for last couple of years.  
+Market is huge but segmented and scattered. Informed Investors or thriving for informed decision making before investment from metro, urban, semi-urban will slowly increase by gradual inclusion due to increased alpha, better accuracy and minimized risk.
+
+##### What is your proposed solution?
+Machine learning models using micro/macro/published/unpublished data from crowed, large pool of active investors will increase predictability,accuracy, alpha and will minimized risk indirectly. So decentralization of information/crowd sourcing of stock related wisdom, published and unpublished information/opinion. Real time/unsupervised structured tagging of investors comment/opinion and information are key to solve this problem.
 
