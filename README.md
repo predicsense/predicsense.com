@@ -26,6 +26,13 @@ Machine learning models using micro/macro/published/unpublished data from crowed
 ##### What is the innovation in your proposed solution?
 Equity research, valuation, rating and news are easily available along with micro/macro data to any system. These inputs along with opinion/tagged data from crowd will be added to multi layered black box to get output. This output will be input to participants/users for decision making. So this propagation will be back and forth to users by application of  technologies related web, iOS and android application, API, and BlockChain. 
 
+##### What is the expected impact of your proposed solution?
+1. This can beat the existing estimation of centralized sources like Broker/ Fund houses.
+2. Retails investors will be more informed and timely. Indirectly good enough to reduce the holding risk.
+3. Easier to make investment decision.
+4. Cost and time of information acquisition will be reduced significantly. 
+5. More investors will be included in the market. 
+
 ##### Must to browse
 https://stocktwits.com/
 https://www.estimize.com/
