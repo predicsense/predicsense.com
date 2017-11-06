@@ -37,10 +37,24 @@ Equity research, valuation, rating and news are easily available along with micr
 Yes this is the best time because the cost of acquisition of technology is lesser and human resources in this field are less but available in India. Presence of BaaS, Cloud, GPUs are now available to develop this Idea. 
 Importantly this is right time because people are well aware of digital money and BlockChain/Etherium/BitCoin.
 
-##### Must to browse
+##### What is the biggest challenge that you foresee in implementing your solution?
+1. We have a team but do not have experience of application of BlockChain.
+2. Security and Software Safety factor
+3. Testing time may be high in India.
+4. Legal issues related to stocks, payment, blockchain, trading
+
+##### What are the currently available alternatives to your proposed solution?
+Twitter based sentiment analysis, web scrapping based sentiment analysis, deep learning based prediction models and few other alternatives are available. http://www.heckyl.com/ is a good example to show the alternative. 
+
+##### How is your solution different from these alternatives?(Describe your value proposition.)
+
 https://stocktwits.com/
-https://www.estimize.com/
-https://www.wealthy.in/about-us/
-https://psychsignal.com/
-http://www.heckyl.com/
+
+https://www.estimize.com/ 
+
+https://www.wealthy.in/about-us/ 
+
+https://psychsignal.com/ 
+
+http://www.heckyl.com/ 
 https://stocksneural.net/about
