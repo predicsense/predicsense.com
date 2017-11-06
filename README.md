@@ -33,6 +33,10 @@ Equity research, valuation, rating and news are easily available along with micr
 4. Cost and time of information acquisition will be reduced significantly. 
 5. More investors will be included in the market. 
 
+##### In your opinion, is this the best time to solve the problem? why?
+Yes this is the best time because the cost of acquisition of technology is lesser and human resources in this field are less but available in India. Presence of BaaS, Cloud, GPUs are now available to develop this Idea. 
+Importantly this is right time because people are well aware of digital money and BlockChain/Etherium/BitCoin.
+
 ##### Must to browse
 https://stocktwits.com/
 https://www.estimize.com/
