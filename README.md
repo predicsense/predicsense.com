@@ -62,3 +62,9 @@ https://stocksneural.net/about
 
 ##### What other industries/market segments can your proposed solution/technology/innovation be applied to?
 Application of sentiment analysis is not limited to stock market but models etc. are not similar for application to other sectors/industries/assets/markets. In future, expansion to other Asian markets and Industries like Capital Goods, Automobile can be explored. 
+##### What is your growth strategy for the next 2 years?
+1. The client base of Broker houses is huge, so use of our application is beneficial to both ends. Brokers will get data of specific group under them. 
+2. Daily rewards, ranking and competition to attract users for direct selling. 
+
+##### Describe your traction till date.(Number of paying users/customers, weekly active users on the website,number of institutional partners/suppliers/distributors etc.)
+This is still in development phase and expected to complete a portion by January 2018. 
