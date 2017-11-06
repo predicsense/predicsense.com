@@ -14,3 +14,4 @@ Decentralization/crowd sourcing of stock related published and unpublished infor
 
 ##### Who are your primary customers?
 All analysts, retail investors and fund houses are customers. 
+
