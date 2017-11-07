@@ -76,3 +76,6 @@ This is still in development phase and expected to complete a portion by January
 4. Another Co-founder is able to handle ML,data analysis and stock market related work.
 
 Combination and diversion of the team is able to solve the problem. Another expert is needed to handle block-chain related issues. 
+##### What is your revenue model?
+1. Major earning from Broker/Financial Institutions/Fund Houses houses to use data and prediction signal.
+2. Another earning possibility from commission from retail traders' trading via broker API. 
