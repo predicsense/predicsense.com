@@ -70,6 +70,9 @@ Application of sentiment analysis is not limited to stock market but models etc.
 ##### Describe your traction till date.(Number of paying users/customers, weekly active users on the website,number of institutional partners/suppliers/distributors etc.)
 This is still in development phase and expected to complete a portion by January 2018. 
 ##### In your opinion, why are you and your team best suited to solve the problem?
-1. 3 members are handling technicals like front, modeling and back-end.
-2. 1 Co- founder will handle operation and sales
-3. 1 team member will handle service and sales
+1. 2 members are handling technicals like front and back-end. They have programming and coding experience of more than couple of years. 
+2. 1 Co- founder is able to sale the product
+3. 1 team members has experience of service,sales
+4. Another Co-founder is able to handle ML,data analysis and stock market related work.
+
+Combination and diversion of the team is able to solve the problem. Another expert is needed to handle block-chain related issues. 
