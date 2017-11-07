@@ -3,6 +3,7 @@
 ##### Industry/Sector of your Idea:
 
  Fintech/Stock Market
+ 
  Technology in use: flask framework, API, Machine Learning, Artificial Inteligence and BlockChain
 
 ##### How did the idea originate?
