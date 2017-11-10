@@ -61,6 +61,12 @@ https://psychsignal.com/
 
 https://stocksneural.net/about
 
+https://auxesisgroup.com/solutions/capital-market-trading.html
+
+https://augur.net/
+
+https://gnosis.pm/
+
 ##### What other industries/market segments can your proposed solution/technology/innovation be applied to?
 Application of sentiment analysis is not limited to stock market but models etc. are not similar for application to other sectors/industries/assets/markets. In future, expansion to other Asian markets and Industries like Capital Goods, Automobile can be explored. 
 ##### What is your growth strategy for the next 2 years?
