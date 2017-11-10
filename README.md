@@ -45,27 +45,19 @@ Importantly this is right time because people are well aware of digital money an
 4. Legal issues related to stocks, payment, blockchain, trading
 
 ##### What are the currently available alternatives to your proposed solution?
-Twitter based sentiment analysis, web scrapping based sentiment analysis, deep learning based prediction models and few other alternatives are available. http://www.heckyl.com/ is a good example to show the alternative. 
+Few Broker houses are using these concepts like twitter based sentiment analysis, web scrapping based sentiment analysis, deep learning based prediction models etc. and few other alternatives are available. A close alternative http://www.heckyl.com/ is already in market. These below sites are operative, weakly or highly related to capital market in US market. Few websites are already in USA market. 
+https://stocktwits.com/
+https://www.estimize.com/ 
+https://www.wealthy.in/about-us/ 
+https://psychsignal.com/ 
+https://stocksneural.net/about
+https://auxesisgroup.com/solutions/capital-market-trading.html
+https://augur.net/
+https://gnosis.pm/
 
 ##### How is your solution different from these alternatives?(Describe your value proposition.)
 
 Few websites are already in USA market. But These services are not available in India. My solution is new or may be few start ups are working on this but not known to me is not competition, as existence of few services are helpful for awareness and helpful for easier inclusion of investors. The machine learning model and application in this idea will always be different from one another and this will be benefit to users. Attractiveness and easier application will be key and different from future entrants. Being early mover we have more mined data for competitiveness. 
-
-https://stocktwits.com/
-
-https://www.estimize.com/ 
-
-https://www.wealthy.in/about-us/ 
-
-https://psychsignal.com/ 
-
-https://stocksneural.net/about
-
-https://auxesisgroup.com/solutions/capital-market-trading.html
-
-https://augur.net/
-
-https://gnosis.pm/
 
 ##### What other industries/market segments can your proposed solution/technology/innovation be applied to?
 Application of sentiment analysis is not limited to stock market but models etc. are not similar for application to other sectors/industries/assets/markets. In future, expansion to other Asian markets and Industries like Capital Goods, Automobile can be explored. 
@@ -83,5 +75,8 @@ This is still in development phase and expected to complete a portion by January
 
 Combination and diversion of the team is able to solve the problem. Another expert is needed to handle block-chain related issues. 
 ##### What is your revenue model?
-1. Major earning from Broker/Financial Institutions/Fund Houses houses to use data and prediction signal.
-2. Another earning possibility from commission from retail traders' trading via broker API. 
+1.  Sharing prediction signal to Broker/Financial Institutions/Fund Houses/Advisors
+2. Share of commission with  different brokers via broker API. 
+3. Fixed earning from investors as subscription or profit sharing above water mark.
+4. Providing cleaned, processed stock market data directly from NSE to users 
+5. Earning from advisory and advisory portfolio management.  
