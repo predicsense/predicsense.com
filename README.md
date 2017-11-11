@@ -100,7 +100,8 @@ Three tables, Later we need to move to BigData but not at least till June,2018
 4. Buy/Sell botton [ trading ]. We will get REST API or ready HTML buttons from Broker houses ( Fluid type at right side top or middle of a page)
 ##### Landing Page-
 1. Landing page a running graph of last day with login/sign up option.
-2. Web scrapped data of the Leading Newspaper 
+2. Web scrapped data of the Leading Newspapers on the graph
+https://economictimes.indiatimes.com/tata-motors-ltd/stocks/companyid-12934.cms
 
 #### 3.Middle 
 ##### AI/ML use of data from mysql and feed
