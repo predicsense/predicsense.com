@@ -98,8 +98,8 @@ Three tables, Later we need to move to BigData but not at least till June,2018
 http://profit.ndtv.com/stock/tata-motors-ltd_tatamotors/research
 
 3. Third Row: A graph of last 50000 poins with news headline. 
-5. multiple news with user input check box (select/deselect impacting or no impact) (up/down)
-4. Buy/Sell botton [ trading ]. We will get REST API or ready HTML buttons from Broker houses ( Fluid type at right side top or middle of a page)
+5. Fourth Row: (Dataset5) ( 4-5 head lines)multiple news with||check box (select/deselect impacting or no impact)|| (up/down) ( 3 splits)
+4. Fifth Row: Buy/Sell botton [ trading ]. We will get REST API or ready HTML buttons from Broker houses ( Fluid type at right side top or middle of a page)
 ##### Landing Page-
 1. Landing page a running graph of last day with login/sign up option
         
@@ -133,4 +133,7 @@ time,price,scrap
 ##### Dataset3
 `,Close,price,km,pr_arima,UD,LSTM
 2017-09-09 07:02:25.651657,246.765,246.7692481203008,246.77090991156192,246.76500155065668,-1,0.07182539999485016`
-
+##### Dataset4
+scrap data 
+##### Dataset5
+filtered scrap data
