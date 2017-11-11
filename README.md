@@ -80,3 +80,28 @@ Combination and diversion of the team is able to solve the problem. Another expe
 3. Fixed earning from investors as subscription or profit sharing above water mark.
 4. Providing cleaned, processed stock market data directly from NSE to users 
 5. Earning from advisory and advisory portfolio management.  
+
+
+## WebSite
+#### 1. Back-
+
+a. MySql to save stock data
+b. Web scrapped data of the Leading Newspaper
+c. twits mining
+
+Three tables, Later we need to move to BigData but not at least till June,2018
+
+#### 2. Front-
+##### After Login:
+1. graph at top of page to show 300 last points 
+2. Another thin graph below to show estimated change of stock price in a limited time
+3. User input : slider against pt.2  , up arrow/down arrow to click against pt.1, multiple toggles against daily news.
+4. Buy/Sell botton [ trading ]. We will get REST API or ready HTML buttons from Broker houses
+##### Landing Page-
+1. Landing page a running graph of last day with login/sign up option.
+2. Web scrapped data of the Leading Newspaper
+
+
+# I am at middle to use data directly from feed/ MySql[Back] for machine learning operation and will generate graph to Front
+
+# Discussion: flexibility to change the web page based on feed back.
