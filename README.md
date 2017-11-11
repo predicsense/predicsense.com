@@ -93,8 +93,8 @@ Three tables, Later we need to move to BigData but not at least till June,2018
 
 #### 2. Front-
 ##### After Login:
-1. graph at top of page to show 300 last points 
-2. Another thin graph below to show estimated change of stock price in a limited time
+1. Plotting last 300 points 
+2. Target price
 3. User input : slider against pt.2  , up arrow/down arrow to click against pt.1, multiple toggles against daily news.
 4. Buy/Sell botton [ trading ]. We will get REST API or ready HTML buttons from Broker houses
 ##### Landing Page-
