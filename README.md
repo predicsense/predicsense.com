@@ -95,6 +95,8 @@ Three tables, Later we need to move to BigData but not at least till June,2018
 ##### After Login:
 1. First Row: Plotting last 300 points
 2. Second Row: up arrow/down arrow to click against pt.1, A small bar to show present price, target price, time difference. User input white space.
+http://profit.ndtv.com/stock/tata-motors-ltd_tatamotors/research
+
 3. Third Row: A graph of last 50000 poins with news headline. 
 5. multiple news with user input check box (select/deselect impacting or no impact) (up/down)
 4. Buy/Sell botton [ trading ]. We will get REST API or ready HTML buttons from Broker houses ( Fluid type at right side top or middle of a page)
