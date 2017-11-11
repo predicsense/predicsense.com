@@ -112,9 +112,11 @@ http://profit.ndtv.com/stock/tata-motors-ltd_tatamotors/research
        Ph(this will be your login):
        Password:
        Confirm password:
-
 2. Web scrapped data of the Leading Newspapers on the graph
 https://economictimes.indiatimes.com/tata-motors-ltd/stocks/companyid-12934.cms
+
+time,price,scrap
+
 
 #### 3.Middle 
 ##### AI/ML use of data from mysql and feed
