@@ -105,13 +105,13 @@ http://profit.ndtv.com/stock/tata-motors-ltd_tatamotors/research
         
        Login(ph):
        Password:
-**Register**
 
-    Name:
-    eMail:(A mail will be sent to this mail for confirmation)
-    Ph(this will be your login):
-    Password:
-    Confirm password:
+       #Register
+       Name:
+       eMail:(A mail will be sent to this mail for confirmation)
+       Ph(this will be your login):
+       Password:
+       Confirm password:
 
 2. Web scrapped data of the Leading Newspapers on the graph
 https://economictimes.indiatimes.com/tata-motors-ltd/stocks/companyid-12934.cms
