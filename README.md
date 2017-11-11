@@ -94,7 +94,7 @@ Three tables, Later we need to move to BigData but not at least till June,2018
 #### 2. Front-
 ##### After Login:
 1. First Row: Plotting last 300 points
-2. Second Row: up arrow/down arrow to click against pt.1, A small bar to show present price, target price, time difference. User input white space.
+2. Second Row: up arrow/down arrow to click against pt.1, A small bar to show present price, target max,target min. User input white space.
 http://profit.ndtv.com/stock/tata-motors-ltd_tatamotors/research
 
 3. Third Row: A graph of last 50000 poins with news headline. 
@@ -128,7 +128,7 @@ time,price,scrap
 `2017-08-03 11:46:12.998605`	`0`	`0`	`0`	`316`
 
 ##### Dataset2
-`Brokerage/Analyst Report_Date Target_mx Target_min`
+`Brokerage/Analyst Stock_name Report_Date Present_pr Target_mx Target_min`
 
 ##### Dataset3
 `,Close,price,km,pr_arima,UD,LSTM
