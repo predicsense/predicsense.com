@@ -137,3 +137,5 @@ time,price,scrap
 scrap data 
 ##### Dataset5
 filtered scrap data
+##### Dataset6
+twit mining
