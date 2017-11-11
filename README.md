@@ -108,3 +108,17 @@ https://economictimes.indiatimes.com/tata-motors-ltd/stocks/companyid-12934.cms
 #### 3.Middle 
 ##### AI/ML use of data from mysql and feed
 
+## Dataset
+
+##### Dataset1
+`	askPrice	askSize	bidPrice	bidSize
+2017-08-03 11:46:12.998605	0	0	0	316
+2017-08-03 11:46:13.005606	0	26	0	316
+2017-08-03 11:46:13.523008	0	26	0	314
+2017-08-03 11:46:13.530009	0	38	0	314`
+
+
+##### Dataset3
+`,Close,price,km,pr_arima,UD,LSTM
+2017-09-09 07:02:25.651657,246.765,246.7692481203008,246.77090991156192,246.76500155065668,-1,0.07182539999485016`
+
