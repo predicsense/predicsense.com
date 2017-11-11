@@ -112,6 +112,7 @@ https://economictimes.indiatimes.com/tata-motors-ltd/stocks/companyid-12934.cms
 
 ##### Dataset1
 `	askPrice	askSize	bidPrice	bidSize
+
 2017-08-03 11:46:12.998605	0	0	0	316
 2017-08-03 11:46:13.005606	0	26	0	316
 2017-08-03 11:46:13.523008	0	26	0	314
