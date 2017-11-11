@@ -102,8 +102,10 @@ http://profit.ndtv.com/stock/tata-motors-ltd_tatamotors/research
 4. Buy/Sell botton [ trading ]. We will get REST API or ready HTML buttons from Broker houses ( Fluid type at right side top or middle of a page)
 ##### Landing Page-
 1. Landing page a running graph of last day with login/sign up option.
+
 `Login(ph):
 Password:`
+
 **Register**
 `Name:
 eMail:(A mail will be sent to this mail for confirmation)
