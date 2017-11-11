@@ -101,7 +101,6 @@ Three tables, Later we need to move to BigData but not at least till June,2018
 1. Landing page a running graph of last day with login/sign up option.
 2. Web scrapped data of the Leading Newspaper
 
+#### 3.Middle 
+##### AI/ML use of data from mysql and feed
 
-# I am at middle to use data directly from feed/ MySql[Back] for machine learning operation and will generate graph to Front
-
-# Discussion: flexibility to change the web page based on feed back.
