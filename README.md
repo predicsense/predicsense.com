@@ -139,3 +139,5 @@ scrap data
 filtered scrap data
 ##### Dataset6
 twit mining
+https://github.com/predicsense/predicsense.com/blob/database/database_structure.md
+
