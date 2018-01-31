@@ -45,3 +45,46 @@
     https://medium.com/@skabbass1/realtime-web-apps-with-nginx-nchan-and-python-284c8ec61b65
 
     https://github.com/uhub/awesome-python
+    
+ #### flask stock
+    https://github.com/jarifibrahim/finance
+    https://github.com/lefnire/tforce_btc_trader
+    https://github.com/realpython/flask-bitcoin-example
+    https://stackoverflow.com/questions/42103741/executing-outgoing-get-request-query-from-flask-to-external-site/42125791
+    https://libraries.io/search?keywords=finance&languages=Python
+    https://github.com/topics/yahoo-finance-api?o=desc&s=updated
+    https://github.com/brandonpwhite/Yahoo-Finance-Scraping/blob/master/scrapeOptions.py
+    https://github.com/briantam/Stock-Tracker
+    https://github.com/arifulhaqueuc/Vote-Count
+    https://github.com/topics/python-flask-application
+    https://github.com/lukaszbanasiak/yahoo-finance
+    https://github.com/lukaszbanasiak/yahoo-finance
+    https://www.twilio.com/blog/2016/06/check-stock-prices-with-python-and-twilio-sms.html
+    http://www.patricksoftwareblog.com/projects/
+    https://github.com/iamkhush/flask-angular
+    https://iborrowdesk.com/about
+    https://github.com/cjmochrie/I-Borrow-Desk
+    https://github.com/ranaroussi/qtpylib
+    https://github.com/hamx0r/ibrest
+    https://github.com/danbikle/tkrapi20
+    https://realpython.com/blog/python/web-development-with-flask-fetching-data-with-requests/
+    https://github.com/jakemmarsh/neural-network-stock-predictor
+    https://www.meetup.com/BAyPIGgies/events/239118816/?_cookie-check=sCHkgsAY3aJrzZBF
+    https://www.youtube.com/watch?v=-mrtmRJuOX4
+    https://github.com/danbikle/tkrapi20
+    https://github.com/realpython/flask-stock-visualizer
+    https://github.com/rebill/flask-zmq/blob/master/setup.py
+    https://github.com/fraoustin/flask-monitor
+
+
+    https://blog.thedataincubator.com/2015/09/painlessly-deploying-data-apps-with-bokeh-flask-and-heroku/
+    https://pythonspot.com/flask-json-and-the-google-charts-api/
+    https://github.com/jantman/biweeklybudget
+    https://github.com/plotly/dash
+
+
+    http://blog.apcelent.com/how-to-setup-microservices-python-zeromq-docker-example.html
+    https://dineshparne.wordpress.com/2015/04/23/development/
+    https://www.digitalocean.com/community/tutorials/how-to-work-with-the-zeromq-messaging-library
+    https://karlgrz.com/monstermash-flask-zeromq-and-echonest-remix/
+    http://blog.pythonisito.com/2011/07/gevent-zeromq-websockets-and-flot-ftw.html
